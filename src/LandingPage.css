@@ -1,0 +1,23 @@
+.landingPage {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.landingPage__left {
+  display: flex;
+  align-items: center;
+}
+
+.landingPage__right {
+  display: flex;
+  padding-right: 20px;
+}
+.landingPage__options {
+  border: none;
+  width: 100%;
+  padding: 10px;
+  outline-width: 0;
+  font-size: medium;
+  background-color: transparent;
+}
